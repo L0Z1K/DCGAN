@@ -9,7 +9,7 @@
 
 
 
-#### Epoch 180
+#### Epoch 22
 
 ![image](result/result.png)
 
