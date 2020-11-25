@@ -1,5 +1,5 @@
 # DCGAN
-- DCGAN for MNIST
+- DCGAN for CelebA
 
 - Train Time : 7h 47m
 
